@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/davidvandertuijn/hide_email"><img src="https://poser.pugx.org/davidvandertuijn/hide_email/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/hide_email"><img src="https://poser.pugx.org/davidvandertuijn/hide_email/license.svg" alt="License"></a>
 
+![Hide Email](https://cdn.davidvandertuijn.nl/github/hide_email.png)
+
 ## Install
 
 ```
