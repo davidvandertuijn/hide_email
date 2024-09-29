@@ -6,6 +6,10 @@
 
 ![Hide Email](https://cdn.davidvandertuijn.nl/github/hide_email.png)
 
+The “Hide Email” tool is designed to enhance privacy and security by obfuscating email addresses. This functionality is particularly useful for individuals and businesses looking to protect their email addresses from spam, phishing attacks, and unauthorized use.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
+
 ## Install
 
 ```
